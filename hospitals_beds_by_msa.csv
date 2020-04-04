@@ -1,0 +1,384 @@
+MSA_Short_Name,Population,Hospitals,Beds
+Albany,880381,18,2949
+Albuquerque,918018,19,2368
+Allentown,844052,18,2994
+Atlanta,6020364,80,13225
+Austin,2227083,60,6241
+Bakersfield,900202,15,1833
+Baltimore,2800053,34,8745
+Birmingham,1090435,21,5493
+Boston,4873019,94,15925
+Buffalo,1127983,21,3719
+Chapel Hill,644367,10,2687
+Charleston,802122,13,2270
+Charlotte,2636883,30,5884
+Chicago,9458539,127,28234
+Cincinnati,2221208,49,9417
+Cleveland,2048449,45,10802
+Columbus,2122271,38,7738
+DC,6280487,60,11562
+Dallas,7573136,177,22120
+Dayton,807611,21,3904
+Daytona Beach,668365,10,2141
+Denver,2967239,42,6088
+Des Moines,699292,13,2040
+Detroit,4319629,58,12748
+Fort Myers,770577,7,2240
+Fresno,999101,15,3628
+Grand Rapids,1077370,17,2366
+Greensboro,771851,10,2330
+"Greenvile, SC",920477,19,2755
+Hartford,1204877,16,3677
+Honolulu,974563,17,2536
+Houston,7066141,137,20597
+Indianapolis,2074537,45,6067
+Jacksonville,1559514,22,6039
+Kansas City,2157990,58,8791
+Knoxville,869046,21,3418
+Lakeland,724777,6,1793
+Las Vegas,2266715,43,6237
+Little Rock,742384,26,4135
+Los Angeles,13214799,172,39123
+Louisville,1265108,29,5918
+Memphis,1346045,32,6437
+Miami,6166488,86,22039
+Milwaukee,1575179,36,6592
+Minneapolis,3640043,40,8364
+NYC,19216182,226,62814
+Nashville,1934317,34,6773
+New Orleans,1270530,53,5926
+Oklahoma City,1408950,43,5971
+Omaha,949442,27,4784
+Orlando,2608147,35,7810
+Oxnard,846006,13,1690
+Philadelphia,6102434,116,23316
+Phoenix,4948203,80,11633
+Pittsburgh,2317600,50,10981
+"Portland, OR",2492412,27,4722
+Poughkeepsie,679158,11,1809
+Providence,1624578,30,5769
+Raleigh,1390785,10,2294
+Richmond,1370148,24,4657
+Riverside,4650631,56,10105
+Rochester,1069644,16,2890
+SF Bay Area,6722463,91,17503
+Sacramento,2363730,28,5380
+Salt Lake City,1232696,25,3425
+San Antonio,2550960,56,8867
+San Diego,3338330,38,7966
+Sarasota,836995,12,2424
+Seattle,3979845,52,9478
+St. Louis,2803228,63,13179
+Stamford,943332,8,2220
+Tampa,3194831,54,11377
+Tucson,1047279,21,3542
+Tulsa,998626,36,4376
+Vallejo,447643,7,749
+Virginia Beach,1749725,31,5204
+Worcester,947404,17,2467
+"Abilene, TX",172060,9,1051
+"Akron, OH",703479,13,3198
+"Albany, GA",146726,3,964
+"Albany-Lebanon, OR",129749,2,98
+"Alexandria, LA",152037,13,1428
+"Altoona, PA",121829,5,598
+"Amarillo, TX",265053,10,1227
+"Ames, IA",123351,5,321
+"Anchorage, AK",396317,10,1293
+"Ann Arbor, MI",367601,7,1873
+"Anniston-Oxford, AL",113605,4,590
+"Appleton, WI",237974,4,542
+"Asheville, NC",462680,7,1469
+"Athens-Clarke County, GA",213750,3,574
+"Atlantic City-Hammonton, NJ",263670,9,1573
+"Auburn-Opelika, AL",164542,1,314
+"Augusta-Richmond County, GA-SC",608980,16,3006
+"Bangor, ME",152148,6,773
+"Barnstable Town, MA",212990,4,484
+"Baton Rouge, LA",854884,39,4348
+"Battle Creek, MI",134159,5,394
+"Bay City, MI",103126,3,389
+"Beaumont-Port Arthur, TX",392563,16,1870
+"Beckley, WV",115767,5,644
+"Bellingham, WA",229247,2,330
+"Bend, OR",197692,2,308
+"Billings, MT",181667,5,663
+"Binghamton, NY",238691,4,819
+"Bismarck, ND",128949,3,551
+"Blacksburg-Christiansburg, VA",167531,5,465
+"Bloomington, IL",171517,2,277
+"Bloomington, IN",169230,3,445
+"Bloomsburg-Berwick, PA",83194,6,829
+"Boise City, ID",749202,14,1903
+"Boulder, CO",326196,6,777
+"Bowling Green, KY",179240,5,758
+"Bremerton-Silverdale-Port Orchard, WA",271473,4,458
+"Brownsville-Harlingen, TX",423163,11,1596
+"Brunswick, GA",118779,2,401
+"Burlington, NC",169509,1,238
+"Burlington-South Burlington, VT",220411,2,632
+"California-Lexington Park, MD",113510,1,95
+"Canton-Massillon, OH",397520,8,1817
+"Cape Girardeau, MO-IL",96765,3,601
+"Carbondale-Marion, IL",135764,5,615
+"Carson City, NV",55916,3,229
+"Casper, WY",79858,6,454
+"Cedar Rapids, IA",273032,5,1079
+"Chambersburg-Waynesboro, PA",155027,3,416
+"Champaign-Urbana, IL",226033,5,642
+"Charleston, WV",257074,10,1065
+"Charlottesville, VA",218615,5,899
+"Chattanooga, TN-GA",565194,16,2155
+"Cheyenne, WY",99500,2,283
+"Chico, CA",219186,7,592
+"Clarksville, TN-KY",307820,6,1158
+"Cleveland, TN",124942,3,373
+"Coeur d'Alene, ID",165697,4,396
+"College Station-Bryan, TX",264728,7,683
+"Colorado Springs, CO",745791,13,1757
+"Columbia, MO",208173,7,844
+"Columbia, SC",838433,21,3441
+"Columbus, GA-AL",321048,11,1651
+"Columbus, IN",83779,1,198
+"Corpus Christi, TX",429024,15,2299
+"Corvallis, OR",93053,1,164
+"Crestview-Fort Walton Beach-Destin, FL",284809,8,858
+"Cumberland, MD-WV",97284,3,476
+"Dalton, GA",144724,2,324
+"Danville, IL",75758,3,447
+"Daphne-Fairhope-Foley, AL",223234,4,398
+"Davenport-Moline-Rock Island, IA-IL",379172,10,1822
+"Decatur, AL",152603,5,574
+"Decatur, IL",104009,2,265
+"Dothan, AL",149358,6,865
+"Dover, DE",180786,2,288
+"Dubuque, IA",97311,3,470
+"Duluth, MN-WI",288732,12,1236
+"East Stroudsburg, PA",170271,2,312
+"Eau Claire, WI",169304,5,879
+"El Centro, CA",181215,2,268
+"El Paso, TX",844124,17,2543
+"Elizabethtown-Fort Knox, KY",153928,4,542
+"Elkhart-Goshen, IN",206341,3,406
+"Elmira, NY",83456,3,468
+"Enid, OK",61056,3,436
+"Erie, PA",269728,9,1223
+"Eugene-Springfield, OR",382067,6,685
+"Evansville, IN-KY",315086,11,1716
+"Fairbanks, AK",96849,3,371
+"Fargo, ND-MN",246145,8,1416
+"Farmington, NM",123958,3,267
+"Fayetteville, NC",526719,8,1036
+"Fayetteville-Springdale-Rogers, AR",534904,16,1673
+"Flagstaff, AZ",143476,4,385
+"Flint, MI",405813,4,1169
+"Florence, SC",204911,9,1213
+"Florence-Muscle Shoals, AL",147970,3,721
+"Fond du Lac, WI",103403,4,214
+"Fort Collins, CO",356899,8,725
+"Fort Smith, AR-OK",250368,10,1256
+"Fort Wayne, IN",413263,13,1665
+"Gadsden, AL",102268,4,739
+"Gainesville, FL",329128,7,1805
+"Gainesville, GA",204441,2,634
+"Gettysburg, PA",103009,1,76
+"Glens Falls, NY",125148,1,410
+"Goldsboro, NC",123131,1,316
+"Grand Forks, ND-MN",100815,7,733
+"Grand Island, NE",75553,4,281
+"Grand Junction, CO",154210,4,614
+"Grants Pass, OR",87487,1,125
+"Great Falls, MT",81366,3,436
+"Greeley, CO",324492,1,300
+"Green Bay, WI",322906,10,1313
+"Greenville, NC",180742,1,909
+"Gulfport-Biloxi, MS",417665,10,1642
+"Hagerstown-Martinsburg, MD-WV",288104,6,731
+"Hammond, LA",134758,10,501
+"Hanford-Corcoran, CA",152940,4,300
+"Harrisburg-Carlisle, PA",577941,13,2155
+"Harrisonburg, VA",134964,2,508
+"Hattiesburg, MS",168849,6,863
+"Hickory-Lenoir-Morganton, NC",369711,6,1194
+"Hilton Head Island-Bluffton, SC",222195,4,408
+"Hinesville, GA",80994,2,102
+"Homosassa Springs, FL",149657,2,332
+"Hot Springs, AR",99386,6,646
+"Houma-Thibodaux, LA",208075,8,647
+"Huntington-Ashland, WV-KY-OH",355873,11,1851
+"Huntsville, AL",471824,9,1434
+"Idaho Falls, ID",151530,3,346
+"Iowa City, IA",173105,5,1485
+"Ithaca, NY",102180,1,212
+"Jackson, MI",158510,2,389
+"Jackson, MS",594806,24,4954
+"Jackson, TN",178644,6,967
+"Jacksonville, NC",197938,3,316
+"Janesville-Beloit, WI",163354,4,564
+"Jefferson City, MO",151235,5,516
+"Johnson City, TN",203649,10,1284
+"Johnstown, PA",130192,4,594
+"Jonesboro, AR",133860,6,785
+"Joplin, MO",179564,7,829
+"Kahului-Wailuku-Lahaina, HI",167417,4,258
+"Kalamazoo-Portage, MI",265066,2,821
+"Kankakee, IL",109862,2,468
+"Kennewick-Richland, WA",299612,5,553
+"Killeen-Temple, TX",460303,12,1372
+"Kingsport-Bristol, TN-VA",307202,10,1529
+"Kingston, NY",177573,3,325
+"Kokomo, IN",82544,3,254
+"La Crosse-Onalaska, WI-MN",136616,2,656
+"Lafayette, LA",489207,30,2126
+"Lafayette-West Lafayette, IN",233002,8,829
+"Lake Charles, LA",210409,12,1068
+"Lake Havasu City-Kingman, AZ",212181,5,665
+"Lancaster, PA",545724,5,1191
+"Lansing-East Lansing, MI",550391,10,1300
+"Laredo, TX",276652,6,655
+"Las Cruces, NM",218195,6,603
+"Lawrence, KS",122259,1,152
+"Lawton, OK",126415,5,615
+"Lebanon, PA",141793,3,484
+"Lewiston, ID-WA",62990,2,170
+"Lewiston-Auburn, ME",108277,2,483
+"Lexington-Fayette, KY",517056,15,2745
+"Lima, OH",102351,5,830
+"Lincoln, NE",336374,9,1378
+"Logan, UT-ID",142165,3,170
+"Longview, TX",286657,9,1128
+"Longview, WA",110593,2,279
+"Lubbock, TX",322257,12,1689
+"Lynchburg, VA",263566,3,738
+"Macon-Bibb County, GA",229996,9,1319
+"Madera, CA",157327,2,462
+"Madison, WI",664865,13,2368
+"Manchester-Nashua, NH",417025,11,1318
+"Manhattan, KS",130285,7,532
+"Mankato, MN",101927,2,289
+"Mansfield, OH",121154,4,508
+"McAllen-Edinburg-Mission, TX",868707,17,2446
+"Medford, OR",220944,3,545
+"Merced, CA",277680,3,246
+"Michigan City-La Porte, IN",109888,2,377
+"Midland, MI",83156,1,308
+"Midland, TX",182603,7,712
+"Missoula, MT",119600,2,404
+"Mobile, AL",429536,8,1954
+"Modesto, CA",550660,12,1729
+"Monroe, LA",200261,17,1277
+"Monroe, MI",150500,1,217
+"Montgomery, AL",373290,11,1520
+"Morgantown, WV",139044,5,990
+"Morristown, TN",142749,3,332
+"Mount Vernon-Anacortes, WA",129205,3,205
+"Muncie, IN",114135,3,411
+"Muskegon, MI",173566,3,413
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",496901,8,987
+"Napa, CA",137744,3,1780
+"Naples-Marco Island, FL",384902,6,1051
+"New Bern, NC",124284,2,427
+"New Haven-Milford, CT",854757,10,3199
+"Niles, MI",153401,4,512
+"Norwich-New London, CT",265206,2,465
+"Ocala, FL",365579,7,919
+"Ocean City, NJ",92039,1,242
+"Odessa, TX",166223,5,1016
+"Ogden-Clearfield, UT",683864,9,1186
+"Olympia-Lacey-Tumwater, WA",290536,2,474
+"Oshkosh-Neenah, WI",171907,5,795
+"Owensboro, KY",119440,2,527
+"Palm Bay-Melbourne-Titusville, FL",601942,11,1768
+"Panama City, FL",174705,5,752
+"Parkersburg-Vienna, WV",89339,2,313
+"Pensacola-Ferry Pass-Brent, FL",502629,13,1772
+"Peoria, IL",400561,8,1383
+"Pine Bluff, AR",87804,2,498
+"Pittsfield, MA",124944,4,436
+"Pocatello, ID",95489,3,229
+"Port St. Lucie, FL",489297,11,1544
+"Portland-South Portland, ME",538500,13,1640
+"Prescott Valley-Prescott, AZ",235099,5,409
+"Provo-Orem, UT",648252,11,1366
+"Pueblo, CO",168424,4,1369
+"Punta Gorda, FL",188910,4,823
+"Racine, WI",196311,4,715
+"Rapid City, SD",142107,8,688
+"Reading, PA",421164,6,1247
+"Redding, CA",180080,7,763
+"Reno, NV",475642,14,1844
+"Roanoke, VA",313222,6,1875
+"Rochester, MN",221921,4,2145
+"Rockford, IL",336116,5,984
+"Rocky Mount, NC",145770,3,520
+"Rome, GA",98498,5,910
+"Saginaw, MI",190539,8,1122
+"Salem, OR",433903,5,511
+"Salinas, CA",434061,4,793
+"Salisbury, MD-DE",415726,8,1026
+"San Angelo, TX",122027,4,614
+"San Luis Obispo-Paso Robles, CA",283111,6,1747
+"Santa Cruz-Watsonville, CA",273213,5,432
+"Santa Fe, NM",150358,3,258
+"Santa Maria-Santa Barbara, CA",446499,9,1054
+"Santa Rosa-Petaluma, CA",494336,12,2148
+"Savannah, GA",393353,11,1819
+"Scranton--Wilkes-Barre, PA",553885,15,2399
+"Sebastian-Vero Beach, FL",159923,4,612
+"Sebring-Avon Park, FL",106221,3,323
+"Sheboygan, WI",115340,2,370
+"Sherman-Denison, TX",136212,8,602
+"Shreveport-Bossier City, LA",394706,20,3117
+"Sierra Vista-Douglas, AZ",125922,8,498
+"Sioux City, IA-NE-SD",144701,4,945
+"Sioux Falls, SD",268232,14,1535
+"South Bend-Mishawaka, IN-MI",323613,8,913
+"Spartanburg, SC",319785,6,943
+"Spokane-Spokane Valley, WA",568521,12,1971
+"Springfield, IL",206868,4,1045
+"Springfield, MA",697382,15,2181
+"Springfield, MO",470300,10,1488
+"Springfield, OH",134083,5,448
+"St. Cloud, MN",201964,5,588
+"St. George, UT",177556,2,338
+"St. Joseph, MO-KS",125223,3,470
+"State College, PA",162385,3,438
+"Staunton, VA",123120,3,409
+"Stockton, CA",762148,10,1280
+"Sumter, SC",140466,3,372
+"Syracuse, NY",648593,11,2138
+"Tallahassee, FL",387227,7,2461
+"Terre Haute, IN",186367,7,616
+"Texarkana, TX-AR",148761,8,928
+"The Villages, FL",132420,2,339
+"Toledo, OH",641816,17,3849
+"Topeka, KS",231969,7,931
+"Trenton-Princeton, NJ",367430,12,2212
+"Tuscaloosa, AL",252047,10,1279
+"Twin Falls, ID",111290,3,278
+"Tyler, TX",232751,10,1337
+"Utica-Rome, NY",289990,8,1124
+"Valdosta, GA",147292,5,525
+"Victoria, TX",99742,6,723
+"Vineland-Bridgeton, NJ",149527,4,588
+"Visalia, CA",466195,7,2086
+"Waco, TX",273920,6,1051
+"Walla Walla, WA",60760,3,316
+"Warner Robins, GA",185409,5,403
+"Waterloo-Cedar Falls, IA",168522,6,589
+"Watertown-Fort Drum, NY",109834,3,344
+"Wausau-Weston, WI",163285,5,483
+"Weirton-Steubenville, WV-OH",116074,6,811
+"Wenatchee, WA",120629,4,251
+"Wheeling, WV-OH",138948,9,1077
+"Wichita Falls, TX",151254,8,661
+"Wichita, KS",640218,19,1637
+"Williamsport, PA",113299,4,302
+"Wilmington, NC",297533,3,932
+"Winchester, VA-WV",140566,3,532
+"Winston-Salem, NC",676008,12,2498
+"Yakima, WA",250873,4,528
+"York-Hanover, PA",449058,7,998
+"Youngstown-Warren-Boardman, OH-PA",536081,20,2815
+"Yuba City, CA",175639,6,342
+"Yuma, AZ",213787,3,487
